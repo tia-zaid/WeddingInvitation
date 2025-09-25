@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Setia Angkasa S.Pi',
+            name: 'Setia Angkasa S.Pi.',
             child: 'anak perempuan',
             father: 'Ahmadin (Alm)',
             mother: 'Almuaini',
@@ -10,10 +10,10 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Ahmad Ramadhan Zaid Al Khairi S.T',
+            name: 'Ahmad Ramadhan Zaid Al Khairi S.T.',
             child: 'anak laki-laki',
-            father: 'Sarbaini',
-            mother: 'Lilis Nawati',
+            father: 'Sarbaini, A.Md.',
+            mother: 'Lilisnawati',
             image: './src/assets/images/zaid.png'
         },
 
